@@ -47,14 +47,14 @@ If you don't use Homebrew, you can still download MacVim
 [here](https://github.com/b4winckler/macvim/releases).
 
 Take a look at the [Pre-requisites wiki
-page](https://github.com/carlhuda/janus/wiki/Pre-requisites) for more
+page](https://github.com/chabzlala29/janus/wiki/Pre-requisites) for more
 information.
 
 
 ## Installation
 
 To install Janus, please use our [automatic
-installer](https://github.com/carlhuda/janus/blob/master/bootstrap.sh)
+installer](https://github.com/chabzlala29/janus/blob/master/bootstrap.sh)
 , which backs up any Vim files found in your home folder and installs
 Janus.
 
