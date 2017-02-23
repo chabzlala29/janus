@@ -75,11 +75,9 @@ submodules:
     mustache_handlebars:
     minitest:
     nodejs:
-    puppet:
     rails:
     rspec:
     ruby:
-    scala:
     scss:
     slim:
     textile:
